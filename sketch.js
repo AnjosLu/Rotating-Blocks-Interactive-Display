@@ -1,13 +1,3 @@
-/*
------ Coding Tutorial by Patt Vira ----- 
-Name: Interactive Display with Rotating Blocks 
-Video Tutorial: https://youtu.be/Fratkco5ACw?si=e9dHp6tCyNA1DrdY
-
-Connect with Patt: @pattvira
-https://www.pattvira.com/
-----------------------------------------
-*/
-
 let distMouse = 15;
 let cols; let rows; let size = 10; let offset = 4;
 let blocks = [];
